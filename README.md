@@ -1,4 +1,4 @@
-# flutter payment app with custom chart (simole chart)
+# flutter payment app with custom chart (simple chart)
 
 A new Flutter project.
 
