@@ -1,4 +1,4 @@
-# my_chart_test
+# flutter payment app with custom chart (simole chart)
 
 A new Flutter project.
 
